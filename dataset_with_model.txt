@@ -1,0 +1,2 @@
+https://github.com/yuzhenglim/AI_APP_SVM/tree/main/Images
+https://github.com/yuzhenglim/AI_APP_SVM/tree/main/Processed_Data
